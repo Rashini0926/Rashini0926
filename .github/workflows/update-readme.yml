@@ -1,0 +1,20 @@
+name: Update README with Latest Projects
+
+on:
+  schedule:
+    - cron: "0 * * * *"   # updates every hour
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Generate Latest Repos
+        uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: PROJECTS
+          commit_message: "⚡ auto update latest projects"
+          feed_list: "https://rsshub.app/github/repos/Rashini0926"
