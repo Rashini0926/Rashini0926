@@ -3,7 +3,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16476A,100:0A2233&height=230&section=header&text=Rashini%20Wijesinghe&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40" />
 </p>
 
-<!-- ======================= ANIMATED NAME ======================= -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&pause=800&color=00CFFF&center=true&vCenter=true&width=600&lines=3rd+Year+IT+Undergraduate;Aspiring+Software+Engineer;Web+Development+%7C+QA+%7C+Problem+Solver" />
 </p>
@@ -52,22 +51,9 @@
 
 ---
 
-## 🚀 Featured Projects
-<p align="center">
-  
-<a href="YOUR_PROJECT_LINK_1">
-  <img src="https://img.shields.io/badge/Online%20Bus%20Ticket%20System-16476A?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-<a href="YOUR_PROJECT_LINK_2">
-  <img src="https://img.shields.io/badge/Laptop%20Hub%20(Kotlin)-16476A?style=for-the-badge&logo=android&logoColor=white">
-</a>
-
-<a href="YOUR_PROJECT_LINK_3">
-  <img src="https://img.shields.io/badge/Habit%20Tracker-16476A?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-</p>
+## 🚀 Latest Projects (Auto Updating)
+<!-- PROJECTS:START -->
+<!-- PROJECTS:END -->
 
 ---
 
