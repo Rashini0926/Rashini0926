@@ -3,7 +3,12 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16476A,100:0A2233&height=230&section=header&text=Rashini%20Wijesinghe&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40" />
 </p>
 
-<h2 align="center">💻 3rd Year IT Undergraduate | Aspiring Software Engineer</h2>
+<!-- ======================= ANIMATED NAME ======================= -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&pause=800&color=00CFFF&center=true&vCenter=true&width=600&lines=3rd+Year+IT+Undergraduate;Aspiring+Software+Engineer;Web+Development+%7C+QA+%7C+Problem+Solver" />
+</p>
+
+<h2 align="center">💻 Passionate Learner | Dedicated Team Player</h2>
 
 ---
 
@@ -12,11 +17,19 @@
 
 ---
 
+## 🟢 Open To
+<p align="left">
+<img src="https://img.shields.io/badge/OPEN%20TO-INTERNSHIP-16476A?style=for-the-badge" />
+<img src="https://img.shields.io/badge/OPEN%20TO-WORK-0A2233?style=for-the-badge" />
+</p>
+
+---
+
 ## ✨ About Me
 - 🎓 3rd Year IT Undergraduate  
 - 🚀 Passionate about **Web Development, QA & Software Engineering**  
-- 🌱 Constantly learning and improving my skills  
-- 🎯 Currently seeking an **Internship opportunity**  
+- 🌱 Constantly improving skills  
+- 🎯 Currently seeking **Internship Opportunities**  
 
 ---
 
@@ -40,14 +53,21 @@
 ---
 
 ## 🚀 Featured Projects
-### 🔹 Online Bus Ticket Reservation System
-A complete platform with admin panel, authentication, booking & more.
+<p align="center">
+  
+<a href="YOUR_PROJECT_LINK_1">
+  <img src="https://img.shields.io/badge/Online%20Bus%20Ticket%20System-16476A?style=for-the-badge&logo=github&logoColor=white">
+</a>
 
-### 🔹 Laptop Hub (Kotlin App)
-Mobile app to manage laptop buying & selling.
+<a href="YOUR_PROJECT_LINK_2">
+  <img src="https://img.shields.io/badge/Laptop%20Hub%20(Kotlin)-16476A?style=for-the-badge&logo=android&logoColor=white">
+</a>
 
-### 🔹 Habit Tracker
-A productivity-focused habit tracking system.
+<a href="YOUR_PROJECT_LINK_3">
+  <img src="https://img.shields.io/badge/Habit%20Tracker-16476A?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</p>
 
 ---
 
