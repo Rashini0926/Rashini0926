@@ -35,7 +35,8 @@
 
 ## 🔥 Contribution Streak
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Rashini0926&theme=radical" />
+  <img src="https://streak-stats.demolab.com?user=Rashini0926&theme=radical&hide_border=false" />
+
 </p>
 
 ---
