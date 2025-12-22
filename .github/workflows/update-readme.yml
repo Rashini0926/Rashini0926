@@ -3,7 +3,7 @@ name: Update README with Latest Projects
 on:
   schedule:
     - cron: "0 * * * *"   # Updates every hour
-  workflow_dispatch:       # Allows manual run
+  workflow_dispatch:
 
 jobs:
   update-readme:
