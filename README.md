@@ -59,9 +59,11 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rashini0926&show_icons=true&bg_color=0A2233&title_color=ffffff&text_color=ffffff&icon_color=00cfff&hide_border=true" height="160"/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rashini0926&layout=compact&bg_color=0A2233&title_color=ffffff&text_color=ffffff&hide_border=true" height="160"/>
+  <!-- Working Mirror (because official service paused) -->
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Rashini0926&show_icons=true&bg_color=0A2233&title_color=ffffff&text_color=ffffff&icon_color=00cfff&hide_border=true" height="160"/>
+
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Rashini0926&layout=compact&bg_color=0A2233&title_color=ffffff&text_color=ffffff&hide_border=true" height="160"/>
 </p>
 
 ---
@@ -83,6 +85,13 @@
 ## 📈 Contribution Activity
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rashini0926&bg_color=0A2233&color=ffffff&line=00cfff&point=ffffff&area=true&area_color=16476A&hide_border=true" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+<p align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
