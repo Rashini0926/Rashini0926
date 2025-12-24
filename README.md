@@ -88,12 +88,7 @@
 
 ---
 
-## 🐍 Contribution Snake
-<p align="center">
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-</p>
 
----
 
 ## 🌐 Connect With Me
 <p align="left">
