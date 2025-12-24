@@ -59,15 +59,16 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rashini0926&show_icons=true&bg_color=30,16476A,0A2233&title_color=ffffff&text_color=ffffff&icon_color=00cfff" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rashini0926&layout=compact&bg_color=30,16476A,0A2233&title_color=ffffff&text_color=ffffff" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Rashini0926&show_icons=true&bg_color=0A2233&title_color=ffffff&text_color=ffffff&icon_color=00cfff&hide_border=true" height="160"/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rashini0926&layout=compact&bg_color=0A2233&title_color=ffffff&text_color=ffffff&hide_border=true" height="160"/>
 </p>
 
 ---
 
 ## 🔥 Contribution Streak
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Rashini0926&background=16476A&stroke=ffffff&ring=00cfff&fire=00cfff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" />
+  <img src="https://streak-stats.demolab.com?user=Rashini0926&theme=dark&background=0A2233&ring=00cfff&fire=00cfff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
 </p>
 
 ---
