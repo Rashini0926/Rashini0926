@@ -59,8 +59,7 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-
-  <!-- Working Mirror (because official service paused) -->
+  <!-- Stable mirror -->
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Rashini0926&show_icons=true&bg_color=0A2233&title_color=ffffff&text_color=ffffff&icon_color=00cfff&hide_border=true" height="160"/>
 
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Rashini0926&layout=compact&bg_color=0A2233&title_color=ffffff&text_color=ffffff&hide_border=true" height="160"/>
