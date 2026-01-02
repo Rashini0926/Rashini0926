@@ -59,36 +59,33 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <!-- Stable mirror -->
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Rashini0926&show_icons=true&bg_color=0A2233&title_color=ffffff&text_color=ffffff&icon_color=00cfff&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Rashini0926&show_icons=true&bg_color=0A2233&title_color=ffffff&text_color=ffffff&icon_color=00cfff&hide_border=true" height="160"/>
 
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Rashini0926&layout=compact&bg_color=0A2233&title_color=ffffff&text_color=ffffff&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rashini0926&layout=compact&bg_color=0A2233&title_color=ffffff&text_color=ffffff&hide_border=true" height="160"/>
 </p>
 
 ---
 
 ## 🔥 Contribution Streak
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Rashini0926&theme=dark&background=0A2233&ring=00cfff&fire=00cfff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Rashini0926&theme=dark&background=0A2233&ring=00cfff&fire=00cfff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true"/>
 </p>
 
 ---
 
 ## 🏆 Achievements
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Rashini0926&theme=algolia&no-frame=true&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Rashini0926&theme=algolia&no-frame=true&margin-w=4" />
 </p>
 
 ---
 
 ## 📈 Contribution Activity
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rashini0926&bg_color=0A2233&color=ffffff&line=00cfff&point=ffffff&area=true&area_color=16476A&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rashini0926&bg_color=0A2233&color=ffffff&line=00cfff&point=ffffff&area=true&area_color=16476A&hide_border=true"/>
 </p>
 
 ---
-
-
 
 ## 🌐 Connect With Me
 <p align="left">
