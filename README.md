@@ -55,7 +55,7 @@
 
 ## 🔥 Contribution Streak
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Rashini0926&theme=dark&background=0A2233&ring=00cfff&fire=00cfff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Rashini0926&theme=dark&background=0A2233&ring=00cfff&fire=00cfff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
 </p>
 
 ---
