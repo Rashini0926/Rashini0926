@@ -25,7 +25,7 @@
 ---
 
 ## ✨ About Me
-- 🎓 3rd Year IT Undergraduate  
+- 🎓 3rd Year IT Undergraduate at SLIIT
 - 🚀 Passionate about **Web Development, QA & Software Engineering**  
 - 🌱 Constantly improving skills  
 - 🎯 Currently seeking **Internship Opportunities**  
